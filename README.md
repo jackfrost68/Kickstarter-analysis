@@ -9,8 +9,12 @@ As an up and coming playwright, Louis sought my help before she started a campai
 
 To analyze the dataset, I leveraged the present data to create new columns such as Average Donations and Percentage Funded. Furthermore, I implemented tools such as sort, filter and pivot tables. 
 
+![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Screen%20Shot%202021-10-24%20at%202.51.33%20PM.png)
+
 
 Additionally, I used conditional formatting to easily visualize the percentage funded per play.In order to help visualize results from my pivot tables, I inserted pivot charts. Lastly, to determine if there were any outliers, I plotted a box and whiskers chart. 
+
+![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Box%20and%20whisker%20plot.png)
 
 
 
@@ -30,6 +34,9 @@ The original deataset’s dates were stored in the UNIX format. To solve this, I
 1. Most theatre-based campaigns are likely to succeed in July. 
 2. For most theatre-based campaigns, they are more likely to fail in January. 
 
+![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Outcomes%20Based%20on%20Launch%20Date.png)
+
+
 *Based on Goals*
 
 According to past data, campaigns with a goal of $25,000 to $29,999 have an 80% of failure. However, if Louise set her goal less than $1,000 or between $35000 - $39,999, she has a 76% and 67% chance of succeeding respectively. 
@@ -38,6 +45,6 @@ According to past data, campaigns with a goal of $25,000 to $29,999 have an 80% 
 There is missing data for canceled theatre campaigns between the months of March and May 
 
 # Recommendations 
-Additional chart analyzing outcomes based on staff picks i.e. whether having more staff picking Louise’s play would make it more likely to succeed. 
-A chart analyzing outcomes based on country in order to help Louise figure out where to run her campaign and optimize her donations. 
+1. Additional chart analyzing outcomes based on staff picks i.e. whether having more staff picking Louise’s play would make it more likely to succeed. 
+2. A chart analyzing outcomes based on country in order to help Louise figure out where to run her campaign and optimize her donations. 
  
