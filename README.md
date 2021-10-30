@@ -41,7 +41,7 @@ The original deataset’s dates were stored in the UNIX format. To solve this, I
 
 According to past data, campaigns with a goal of $25,000 to $29,999 have an 80% of failure. However, if Louise set her goal less than $1,000 or between $35000 - $39,999, she has a 76% and 67% chance of succeeding respectively. 
 
-![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/c6d6be28412df2944b1351a7a9e10bd46e5c633c/Outcomes_vs_Goals.png)
+![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7909d07ed6d7263914bb9b80fcd9c524eee3988d/Outcomes_vs_Goals.png)
 
 # Limitations of dataset 
 There is missing data for canceled theatre campaigns between the months of March and May 
