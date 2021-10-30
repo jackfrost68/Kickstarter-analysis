@@ -34,7 +34,7 @@ The original deataset’s dates were stored in the UNIX format. To solve this, I
 1. Most theatre-based campaigns are likely to succeed in July. 
 2. For most theatre-based campaigns, they are more likely to fail in January. 
 
-![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/7edd40c204fa336c1018b9e85d6f51bd40ce77f1/Outcomes%20Based%20on%20Launch%20Date.png)
+![This is an image](https://github.com/jackfrost68/Kickstarter-analysis/blob/a4e00d8fa0aa37e681aea7759de3c9ae377f0d3a/Theater_Outcomes_vs_Launch.png)
 
 
 *Based on Goals*
